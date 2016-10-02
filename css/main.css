@@ -22,11 +22,11 @@ h3 {
 }
 
 .jumbotron {
-    background-image: url("background.png");
+    background-image: url("../background.png");
     background-position: center center;
-    background-attachment: fixed;
+    /*background-attachment: fixed;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; */
     color: #e67300;
     text-align: left;
 }
@@ -83,13 +83,12 @@ h3 {
 
 .sec2compass {
   color: #26734d;
-  padding-bottom: 5px;
   padding-left: 13px;
   padding-top: 20px;
 }
 
 .container-margin-video{ /* The video conatainer */
-    padding-top:50px;
+    padding-top:20px;
     padding-bottom:50px;
 }
 
