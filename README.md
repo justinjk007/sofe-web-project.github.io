@@ -1,2 +1,4 @@
-# good-copy
-Bootstrap styled template with Anna's section done
+# Web programming 101
+
+
+Simple web programming project that started me on frontend basics. Not a big fan of it tho.
